@@ -1,0 +1,1 @@
+double calculateHypotenuse(int a, int b);
